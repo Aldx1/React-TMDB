@@ -6,7 +6,7 @@ The page can be reset to load popular movies by clicking on the TMDB logo in the
 
 The page will continue to load movies (if more are available) when the user scrolls to the bottom of the current list using API pagination. 
 
-[Small Demo](https://www.loom.com/share/76588e9442c04019897903cc9f585e2f?sid=e8f75c6a-0313-413e-b321-2d54162f7137)
+[Running example](https://react-tmdb-ald.netlify.app)
 
 To clone and run this application you need to get an Authorisation token from The Movie Database. 
 Getting this token is quick and free (depending on intended use) and can be done here: https://www.themoviedb.org/login
